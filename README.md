@@ -1,6 +1,6 @@
 # async-await-demo
 
-This code is borrowed from James Q Quick's youtube [video](https://www.youtube.com/watch?v=670f71LTWpM&t=433s) to explain how asynchronous code evolved and is currently used in Javascript.
+This code is borrowed from James Q Quick's youtube [video](https://www.youtube.com/watch?v=670f71LTWpM) to explain how asynchronous code evolved and is currently used in Javascript.
 
 Steps to run: 
 
